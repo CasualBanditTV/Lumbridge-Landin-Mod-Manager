@@ -110,7 +110,6 @@ This keeps installation simple and ensures that players receive the correct vers
 | `README.md` | Project information, installation instructions, and server access information. |
 | `dragon.png` | Golden dragon shield logo displayed on this page. |
 | `installer.bat` | Main installer used by players to install or update the Mod Manager. |
-| `app-version.txt` | Version information used by the application update system. |
 | `IMPORTANT-WINDOWS-SECURITY.tx` | please read before downloading installer Notice |
 | `Lumbridge.Landin.Mod.Manager.zip` | Latest application package published under GitHub Releases. The in-app update system will use this package to detect and download the latest application update. |
 
