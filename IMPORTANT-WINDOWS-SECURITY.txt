@@ -1,0 +1,102 @@
+⚠️ Windows Security / Defender Notice
+
+
+
+## 🚨 Important
+
+If Windows Security or Microsoft Defender displays:
+
+> **"Couldn't download - Virus detected"**
+
+when downloading the Lumbridge Landin Mod Manager installer, **do not immediately assume the software is malicious.**
+
+The installer has been submitted to Microsoft for analysis as a suspected false positive.
+
+
+
+
+
+### 🔗 Verify the Official GitHub Repository
+
+**Always check the URL before downloading.**
+
+👉 [**Official Lumbridge Landin Mod Manager Repository**](https://github.com/CasualBanditTV/Lumbridge-Landin-Mod-Manager/tree/main)
+
+Make sure the URL begins with:
+
+`https://github.com/CasualBanditTV/Lumbridge-Landin-Mod-Manager`
+
+
+
+
+
+### 🛡️ Current Defender Detection
+
+Microsoft Defender has detected the installer as:
+
+**`Trojan:Script/Wacatac.H!ml`**
+
+This detection has been submitted to Microsoft for security analysis.
+
+
+
+
+
+### 🪟 If Windows Blocks the Installer
+
+1. Open **Windows Security**
+
+2. Select **Virus & threat protection**
+
+3. Select **Protection history**
+
+4. Find the detection
+
+5. Expand it
+
+6. Select **Actions**
+
+7. If available, select **Allow on device**
+
+
+**Do not permanently disable Microsoft Defender.**
+
+
+
+
+
+### 📩 Submit the Installer to Microsoft
+
+If you believe Microsoft Defender has incorrectly detected the
+Lumbridge Landin Mod Manager installer as malware, you can
+submit the installer directly to Microsoft for analysis.
+
+Microsoft's official file submission page is:
+
+https://www.microsoft.com/en-us/wdsi/filesubmission
+
+When submitting the file:
+
+1. Select **Incorrectly detected as malware/malicious**
+
+2. Upload the Lumbridge Landin Mod Manager installer that was
+   detected by Microsoft Defender.
+
+3. If Microsoft asks for the detection name, enter:
+
+   **Trojan:Script/Wacatac.H!ml**
+
+4. Provide any additional information about the installer and
+   explain that you believe the detection is a false positive.
+
+Only submit the installer if you downloaded it from the
+official Lumbridge Landin Mod Manager GitHub repository.
+
+Official repository:
+
+https://github.com/CasualBanditTV/Lumbridge-Landin-Mod-Manager/tree/main
+
+
+
+**Do not submit or allow files from unofficial sources simply
+because someone says they are safe.**
