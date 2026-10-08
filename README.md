@@ -17,6 +17,8 @@
 
 [📥 Download the Installer](./installer.zip)
 
+[Terms & Conditions](./License.txt)
+
 </div>
 
 ---
