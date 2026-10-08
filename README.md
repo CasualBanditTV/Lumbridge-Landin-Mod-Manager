@@ -10,7 +10,7 @@
 
   *Manage your mods. Stay updated. Join the adventure.*
   
-  [📥 Download the Installer](./installer.zip)
+  [📥 Download the Installer](./installer.zip)  [⚠️ Windows Security / Defender Notice](./IMPORTANT-WINDOWS-SECURITY.txt)
 
 </div>
 
