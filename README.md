@@ -14,6 +14,8 @@
 
 </div>
 
+</div>
+
 ---
 
 ## 📥 Install the Mod Manager
