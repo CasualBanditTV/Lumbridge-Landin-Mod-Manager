@@ -12,8 +12,6 @@
 
   [📥 Download the Installer](./installer.zip)
 
----
-
 </div>
 
 ---
