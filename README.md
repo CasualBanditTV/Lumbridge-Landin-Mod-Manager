@@ -9,8 +9,12 @@
   Created by **CasualBanditTV**
 
   *Manage your mods. Stay updated. Join the adventure.*
-  
-[⚠️ Windows Security / Defender Notice](./IMPORTANT-WINDOWS-SECURITY.txt)         [📥 Download the Installer](./installer.zip)
+
+[⚠️ Windows Security / Defender Notice](./IMPORTANT-WINDOWS-SECURITY.txt)
+
+---
+
+[📥 Download the Installer](./installer.zip)
 
 </div>
 
