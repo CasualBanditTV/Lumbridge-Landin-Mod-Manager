@@ -111,6 +111,7 @@ This keeps installation simple and ensures that players receive the correct vers
 | `dragon.png` | Golden dragon shield logo displayed on this page. |
 | `installer.bat` | Main installer used by players to install or update the Mod Manager. |
 | `app-version.txt` | Version information used by the application update system. |
+| `IMPORTANT-WINDOWS-SECURITY.tx` | please read before downloading installer Notice |
 | `Lumbridge.Landin.Mod.Manager.zip` | Latest application package published under GitHub Releases. The in-app update system will use this package to detect and download the latest application update. |
 
 > 🔄 **In-App Updates:** The Mod Manager will check the latest GitHub Release for `Lumbridge.Landin.Mod.Manager.zip` when an update is available. The in-app update system is currently being developed and is **not yet fully functional**.
