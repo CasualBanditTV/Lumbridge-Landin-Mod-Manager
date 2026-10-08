@@ -10,6 +10,8 @@
 
   *Manage your mods. Stay updated. Join the adventure.*
 
+---
+
   [📥 Download the Installer](./installer.zip)
 
 </div>
