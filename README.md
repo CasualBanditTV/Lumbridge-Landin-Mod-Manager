@@ -14,7 +14,6 @@
 
 [⚠️ Windows Security / Defender Notice](./IMPORTANT-WINDOWS-SECURITY.txt)
 
----
 
 [📥 Download the Installer](./installer.zip)
 
