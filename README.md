@@ -4,91 +4,135 @@
 
   # 🐉 Lumbridge Landin Mod Manager
 
-  **⚔️ The Mod Manager for the Private Lumbridge Landnin Server**
+  **⚔️ The Mod Manager for the Private Lumbridge Landin Server**
 
   Created by **CasualBanditTV**
 
   *Manage your mods. Stay updated. Join the adventure.*
 
-  [📥 Download the Latest Version](https://github.com/CasualBanditTV/Lumbridge-Landin-Mod-Manager/releases/latest)
+  [📥 Download the Installer](./installer.bat)
 
 </div>
 
 ---
 
-## 🎮 About
+## 📥 Install the Mod Manager
 
-**Lumbridge Landin Mod Manager** is an application created by **CasualBanditTV** specifically for the private **Lumbridge Landnin** server in *RuneScape: Dragonwilds*.
+You **do not need to download the latest release manually**.
 
-The app helps players manage their mods and check for application updates.
+The recommended way to install the Lumbridge Landin Mod Manager is through the included **`installer.bat`** file.
 
-## 🌍 About the Server
+### 🚀 How Installation Works
 
-- 🏰 **World:** Lumbridge Landnin
-- 🎮 **Game:** RuneScape: Dragonwilds
-- 🔒 **Access:** Private
-- 🔑 **Joining:** Invite code **or** world password
+1. 📥 Download **`installer.bat`** from this GitHub repository.
+2. ▶️ Run **`installer.bat`**.
+3. 🌐 The installer checks GitHub for the latest published application version.
+4. 🔍 The installer checks whether the Mod Manager is already installed on your computer.
+5. 🆕 If you do not have the Mod Manager, the installer downloads and installs the latest version.
+6. 🔄 If you already have an older version, the installer detects the newer version and updates your installation.
+7. ✅ If you already have the latest version, the installer does not download the application again.
+8. 🖥️ The installer creates or repairs the **Lumbridge Landin Mod Manager** desktop shortcut.
+9. 🎮 Launch the Mod Manager and start using it.
 
-### 🛡️ How to Get Access
+### 💡 Why Use the Installer?
 
-1. 🎮 **Ask a Friend** — Contact a friend who already has access to the world and ask for an invite code or the world password.
-2. 👑 **Contact an Admin** — If you don't know anyone with access, contact a server admin for help.
-3. 🌍 **Join the World** — Use either a valid invite code or the world password to access Lumbridge Landnin.
+The installer is designed to make installation and updates easier.
 
-> ⚠️ **Important:** Lumbridge Landnin is a private world. You must obtain an invite code or the password from a friend with access or a server admin. Please don't share private access details publicly.
+You **do not need to search through GitHub Releases, choose a ZIP file, or manually replace application files**.
 
-## 📥 Download the Mod Manager
+The installer handles this automatically.
 
-**[⬇️ Download Lumbridge Landin Mod Manager — Latest Release](https://github.com/CasualBanditTV/Lumbridge-Landin-Mod-Manager/releases/latest)**
+The GitHub **Releases** section is used to store and distribute the latest application files that the installer downloads when necessary.
 
-1. Open the latest release.
-2. Download the installer or ZIP file under **Assets**.
-3. Run the installer or follow the included installation instructions.
-4. Launch the mod manager.
+Players only need the **`installer.bat`**.
 
-*The download link will work once a release containing the app files has been published.*
-
-## ✨ Features
-
-- 🛠️ **Mod Management** — Manage mods for RuneScape: Dragonwilds.
-- 🔄 **Application Update Checks** — Check online for newer app versions.
-- 📦 **Update Packages** — Support for distributing app updates.
-- 🛡️ **Startup Options** — Startup and background notifications when configured.
-- 🌍 **Server Access Instructions** — Explains how to request access to Lumbridge Landnin.
+---
 
 ## 🔄 How App Updates Work
 
-1. 🚀 Launch the mod manager.
-2. 🌐 The app checks the online application version.
-3. 🆕 If a newer version is available, an update prompt appears.
-4. 📥 Choose **Update App** to install the update or **Keep Current Version** to continue using your existing version.
+The Mod Manager uses two separate update systems:
 
-If the online version check fails, the app is intended to continue opening normally.
+### 🛠️ Installer Updates
+
+The **`installer.bat`** is used to install or update the Mod Manager itself.
+
+When you run the installer:
+
+1. 🌐 It checks GitHub for the latest published release.
+2. 🏷️ It reads the latest application version.
+3. 🔍 It compares that version with the version installed on your computer.
+4. 📥 If the installed version is missing or outdated, it downloads the appropriate application package.
+5. 📦 The existing installation is replaced with the new version.
+6. 🖥️ The desktop shortcut is created or repaired.
+7. ✅ The installation is ready to use.
+
+If your installed version already matches the latest published version, the installer will **not unnecessarily download the application again**.
+
+### 📱 In-App Updates
+
+The Mod Manager can also check for application updates while the application is running.
+
+If a newer application version is available:
+
+- 🆕 The Mod Manager notifies you that an update is available.
+- 📥 You can choose **Update App**.
+- ▶️ You can choose **Keep Current Version** if you want to continue using your current version.
+
+The application update system and the installer are separate from the GitHub repository's normal README and logo files.
+
+---
+
+## 📦 GitHub Releases
+
+GitHub Releases are used to publish the **actual application files** for the Mod Manager.
+
+Players generally **do not need to visit the Releases page**.
+
+Instead:
+
+> 📥 Download and run **`installer.bat`** from the main repository.
+
+The installer uses the latest published GitHub Release behind the scenes to obtain the application files.
+
+This keeps installation simple and ensures that players receive the correct version without having to manually find and download the latest release.
+
+---
 
 ## 📂 Repository Files
 
 | File | Purpose |
 |---|---|
-| `README.md` | Project information, downloads, and server access instructions. |
-| `dragon.png` | Golden dragon shield logo displayed above. |
-| `app-version.txt` | Latest app version for the updater. |
-| `app-update.zip` | Application update package when using this update method. |
+| `README.md` | Project information, installation instructions, and server access information. |
+| `dragon.png` | Golden dragon shield logo displayed on this page. |
+| `installer.bat` | Main installer used by players to install or update the Mod Manager. |
+| `app-version.txt` | Version information used by the application update system. |
+| `app-update.zip` | Application update package when using the in-app update method. |
+
+The application packages published under **GitHub Releases** are used by the installer to obtain the latest application files.
+
+---
 
 ## ⚠️ Important Notes
 
-- 🔒 Lumbridge Landnin is a private server.
+- 📥 **Players should download `installer.bat` instead of manually downloading a Release.**
+- 🔄 The installer automatically checks for the latest published application version.
+- 📦 GitHub Releases contain the application files used by the installer.
+- 🖥️ The installer handles installation, updating, and the desktop shortcut.
+- 🔒 Lumbridge Landin is a private server.
 - 🔑 You need either an invite code or the world password to join.
 - 👑 Contact a friend with access or a server admin to request access details.
-- 🐉 Download the app from the official repository.
+- 🐉 Download the installer from the official **Lumbridge Landin Mod Manager** repository.
+
+---
 
 ## 👑 Created By
 
 **CasualBanditTV**
 
-Built for the private **Lumbridge Landnin** server in *RuneScape: Dragonwilds*.
+Built for the private **Lumbridge Landin** server in *RuneScape: Dragonwilds*.
 
 <div align="center">
 
-**🐉 Lumbridge Landnin — Private World. Legendary Adventures. ⚔️**
+**🐉 Lumbridge Landin — Private World. Legendary Adventures. ⚔️**
 
 </div>
