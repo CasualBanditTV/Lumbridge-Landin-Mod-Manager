@@ -1,0 +1,196 @@
+============================================================
+LUMBRIDGE LANDIN MOD MANAGER
+WINDOWS SECURITY / DEFENDER NOTICE
+============================================================
+
+IMPORTANT:
+
+If Windows Security or Microsoft Defender displays:
+
+"Couldn't download - Virus detected"
+
+when downloading or using the Lumbridge Landin Mod Manager
+installer, please read this file before assuming the software
+is malicious.
+
+The official Lumbridge Landin Mod Manager installer is
+distributed by CasualBanditTV through the official GitHub
+repository.
+
+------------------------------------------------------------
+VERIFY THE OFFICIAL GITHUB URL
+------------------------------------------------------------
+
+Before downloading the installer, ALWAYS check the URL in
+your browser.
+
+The official Lumbridge Landin Mod Manager GitHub repository is:
+
+https://github.com/CasualBanditTV/Lumbridge-Landin-Mod-Manager/tree/main
+
+Make sure the address begins with:
+
+https://github.com/CasualBanditTV/Lumbridge-Landin-Mod-Manager
+
+If you are viewing this project somewhere else, verify that
+you are using the official repository before downloading or
+running any files.
+
+DO NOT download the installer from an unknown website,
+third-party download page, Discord message, or a link sent by
+someone you do not trust.
+
+------------------------------------------------------------
+CURRENT MICROSOFT DEFENDER DETECTION
+------------------------------------------------------------
+
+Microsoft Defender has detected the installer with:
+
+Trojan:Script/Wacatac.H!ml
+
+This detection has been submitted to Microsoft for analysis
+as a suspected false positive.
+
+The installer uses a Windows batch file and PowerShell to:
+
+- Check the latest Lumbridge Landin Mod Manager release.
+- Connect to the official GitHub repository.
+- Download the current application package.
+- Extract the application files.
+- Install or update the application.
+- Create or repair the desktop shortcut.
+
+These actions are part of the install/update process.
+
+------------------------------------------------------------
+IF WINDOWS BLOCKS THE INSTALLER
+------------------------------------------------------------
+
+DO NOT disable Microsoft Defender permanently.
+
+If you downloaded installer.zip from the official
+Lumbridge Landin Mod Manager GitHub repository and want to
+continue, you can check Windows Security's Protection History.
+
+1. Open Windows Security.
+
+2. Select:
+   Virus & threat protection
+
+3. Under "Current threats", select:
+   Protection history
+
+4. Find the detection associated with:
+
+   Lumbridge Landin Mod Manager
+
+   or:
+
+   Trojan:Script/Wacatac.H!ml
+
+5. Expand the detection.
+
+6. Select "Actions" if that option is available.
+
+7. If Windows provides the option, select:
+
+   Allow on device
+
+------------------------------------------------------------
+AFTER ALLOWING THE FILE
+------------------------------------------------------------
+
+If Windows removed the installer, download installer.zip
+again from the official GitHub repository.
+
+Then:
+
+1. Extract installer.zip.
+
+2. Open the extracted "installer" folder.
+
+3. Run:
+
+   installer.bat
+
+The installer will then check the latest official GitHub
+release and install the current version of Lumbridge Landin
+Mod Manager.
+
+------------------------------------------------------------
+IMPORTANT SAFETY WARNING
+------------------------------------------------------------
+
+ONLY follow these instructions if you downloaded the file
+from the official Lumbridge Landin Mod Manager GitHub
+repository.
+
+Do NOT allow a file through Windows Security simply because
+someone tells you it is safe.
+
+If Windows displays a different malware detection, especially
+a specific malware or Trojan name that is not:
+
+   Trojan:Script/Wacatac.H!ml
+
+DO NOT automatically allow the file.
+
+Instead, check the exact detection name and contact
+CasualBanditTV before continuing.
+
+------------------------------------------------------------
+MICROSOFT SUBMISSION
+------------------------------------------------------------
+
+The detected installer has been submitted to Microsoft for
+security analysis as a suspected false positive.
+
+Microsoft may determine whether the detection is accurate or
+whether the installer was incorrectly detected.
+
+Until Microsoft's analysis is complete, users should treat
+Windows Security warnings seriously and verify that they
+obtained the installer from the official repository.
+
+------------------------------------------------------------
+OFFICIAL PROJECT
+------------------------------------------------------------
+
+Project:
+Lumbridge Landin Mod Manager
+
+Developer:
+CasualBanditTV
+
+Game:
+RuneScape: Dragonwilds
+
+Server:
+Lumbridge Landin
+
+The project is intended for the private Lumbridge Landin
+server.
+
+------------------------------------------------------------
+REMEMBER
+------------------------------------------------------------
+
+CHECK THE URL BEFORE DOWNLOADING.
+
+Official repository:
+
+https://github.com/CasualBanditTV/Lumbridge-Landin-Mod-Manager/tree/main
+
+Make sure you are downloading from the official repository
+owned by CasualBanditTV.
+
+DO NOT disable Windows Defender.
+
+DO NOT download the installer from an unofficial website.
+
+DO NOT use a copy provided by an unknown person.
+
+If you are unsure about a Windows Security warning, stop and
+verify the file before continuing.
+
+============================================================
