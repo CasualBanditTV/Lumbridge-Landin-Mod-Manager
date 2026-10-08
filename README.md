@@ -132,6 +132,9 @@ The `installer.bat` and the in-app updater use the GitHub Releases system to obt
 - 🔑 You need either an invite code or the world password to join.
 - 👑 Contact a friend with access or a server admin to request access details.
 - 🐉 Download the installer from the official **Lumbridge Landin Mod Manager** repository.
+- ⚠️ Operating System Compatibility
+
+This software is intended for use on Microsoft Windows. Compatibility with other operating systems is not guaranteed.
 
 ---
 
